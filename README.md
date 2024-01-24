@@ -60,7 +60,7 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 
 ```javascript
 git clone https://github.com/BOTZOFFICIAL/WenBotz
-cd BOT BY WEN ENC
+cd WENBOTZ-MD
 npm i
 npm start
 ```
